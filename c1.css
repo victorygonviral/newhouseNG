@@ -1,0 +1,29 @@
+.maindiv{
+    background-color: rgb(240, 238, 238);
+    gap: 20px;
+}
+.logo{
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 60px;
+}
+.updiv{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 50px;
+    /* gap: 20px; */
+}
+.listdiv{
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 25px;
+    align-items: center;
+    justify-content: space-around;
+    list-style-type: none; 
+}
+.index{
+    background-color: aliceblue;
+}
+.div1{
+    height: 700px;
+}

@@ -1,0 +1,480 @@
+ h2, h5{
+    font: 24px "Time New Roman";
+    margin: 19.2px 0px;
+    
+} 
+.maindiv{
+    background-color: rgb(240, 238, 238);
+    gap: 20px;
+}
+
+.logo{
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 60px;
+}
+.updiv{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 50px;
+}
+.listdiv{
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    justify-content: space-around;
+    list-style-type: none; 
+}
+.indexdiv{
+    background-color: red;
+    margin: 0 50px;
+    width: 10px;
+    height: 45px;
+    gap: -20px;
+    vertical-align: top;
+}
+.mainindex{
+    display: flex;
+    align-items: center;
+    gap: -10px;
+    /* border: 2px solid red; */
+    /* margin-right: 100px; */
+   /* margin-left: -20px; */
+}
+
+.ss{
+    margin-left: -40px;
+}
+.img1{
+    margin: 0 50px;
+    height: 400px; 
+    
+}
+.div1{
+    background-color: rgb(219, 218, 218);
+    text-align: center;
+    margin: 0 50px;
+    margin-top: -20px;
+}
+.divelon{
+     background-color: rgb(219, 218, 218);
+     text-align: center;
+     margin: 0 0px;
+     margin-top: -20px;
+}
+.elon{
+    height: 400px !important;
+    width: 600px !important;
+    
+}
+.div2{
+    display: flex;
+    /* align-items: center; */
+    flex-wrap: nowrap;
+}
+.nn{
+    background-color: red;
+    margin: 0 5px;
+    width: 5px;
+    height: 20px;
+}
+
+.jj{
+    /* margin-top: -40px; */
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  
+    
+}
+.img2{
+    height: 120px;
+    width: 180px;
+    border-radius: 10px;
+}
+.small{
+    color: grey;
+}
+.divkk{
+    display: flex;
+    text-align: center;
+}
+.divk{
+    font-size: medium;
+    margin-top: 50px;
+    color: black;
+
+}
+
+.ff{
+    font-size: larger;
+
+}
+
+.topnews{
+    display: flex;
+    align-items: center;
+    align-self: flex-start;
+    margin-top: -20px;
+
+}
+.ll{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+.divhtt{
+    background-color: red;
+    margin: 0 50px;
+    margin-top: 50px;
+    height: 20px;
+    width: 5px;
+}
+.divcj{
+    display: flex;
+
+}
+.cj{
+    margin-left: -40px;
+    margin-top: 27px;
+}
+.div11{
+    color: white;
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: -20px;
+    width: 225px;
+}
+.tiwadiv{
+    margin: 0 50px;
+}
+.divwo{
+    height: 225px;
+}
+.videodiv{
+    display: flex;
+}
+.div55{
+    color: white;
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: -25px;
+    width: 400px;
+}
+.cr7{
+    margin: 0 50px;
+    margin-top: 45px;
+}
+.cr9{
+    margin-left: 32px;
+    margin-top: 10px;
+}
+.cr8{
+    color: white;
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: -25px;
+    width: 200px;
+}
+.buttonyo{
+    margin: 0 50px;
+    width: 10%;
+    padding: 10px;
+
+}
+.sports1{
+    display: flex;
+
+}
+
+
+.div14{
+    display: flex;
+    background-color: rgba(222, 220, 220, 0.925);
+    color: whitesmoke;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 20px;
+}
+.div16{
+    margin-left: 40px;
+    list-style-type: none;
+}
+.div17{
+    margin-right: 30px;
+}
+.div18{
+    display: flex;
+    justify-content: space-between;
+}
+.div19{
+    display: flex;
+    justify-content: center;
+
+}
+.div20{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(132, 83, 132);
+}
+.divletter{
+    margin-left: 24px;
+    color:rgb(132, 83, 132) ;
+}
+.withus{
+    color:rgb(132, 83, 132) ;
+}
+.myvideosdiv{
+    display: flex;
+}
+
+
+.like{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.carousel-inner{
+    width:95%;
+}
+.nba{
+    height: 115px;
+    width: 200px;
+}
+
+.de{
+    width: 200px;
+    height: 265px;
+}
+.sportsj{
+    width: 400px;
+}
+
+.button1{
+    padding: 10px;
+
+}
+.button16{
+ margin: 0 50px;
+ width: 10%;
+ padding: 10px;
+}
+
+button{
+    border: 2px solid green;
+    width: 30%;
+    border-radius: 10px;
+    padding-right: 30px;
+    text-align: center;
+    font-size: large;
+
+}
+
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(49, 42, 42);
+    color: white;
+    margin-top: 10px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+}
+li{
+    list-style: none;
+}
+
+.blog{
+    vertical-align: top;
+}
+
+.ent{
+    line-height: 50px;
+}
+
+a:hover{
+    color: green;
+}
+
+
+.ss{
+    color: black;
+    /* font-size: x-large; */
+    font-size: 22px;
+
+    
+}
+
+.tp{
+    font-size: 30px;
+}
+
+
+.headd{
+    font-size: 50px;
+}
+
+
+.ss:hover:after{
+    /* content: attr(data-hover); */
+    /* font-size: 24px; */
+    /* font-weight: 300; */
+}
+
+
+@media(max-width: 425px){
+
+.maindiv{
+    flex-wrap: wrap;
+
+}
+
+footer{
+    flex-wrap: wrap;
+}
+.marveldiv{
+    flex-wrap: wrap;
+    margin-right: 100px;
+    margin-left: -20px;
+} 
+
+.div2{
+    flex-wrap: wrap;
+}
+.img1{
+    width: 360px;
+} 
+.slideshow{
+    display: none;
+}
+.videodiv{
+    flex-wrap: wrap;
+}
+.sports1{
+    flex-wrap: wrap;
+    align-items: center;
+}
+.div55{
+    width: 300px;
+}
+.divwo{
+    width: 300px;
+}
+.sportsj{
+    width: 300px;
+}
+.div11{
+    width: 300px;
+}
+.cr9{
+    margin: 0 100px;
+}
+.button16{
+    margin: 0 100px;
+}
+.jj{
+    margin-left: 20px;
+}
+.img2{
+    margin-right: 20px;
+}
+.ll{
+    margin-left: 20px;
+}
+.topnews{
+    margin-left: 20px;
+}
+}
+
+
+/* MODAL CSS */
+
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 8;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+  .modal-content {
+    margin: 50px auto;
+    border: 1px solid #999;
+    width: 60%;
+  }
+  /* h2,
+  p {
+    margin: 0 0 20px;
+    font-weight: 400;
+    color: #999;
+  } */
+  span {
+    color: #666;
+    display: block;
+    padding: 0 0 5px;
+  }
+  form {
+    padding: 25px;
+    margin: 25px;
+    box-shadow: 0 2px 5px #f5f5f5;
+    background: #eee;
+  }
+  input,
+  textarea {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #1c87c9;
+    outline: none;
+  }
+  .contact-form button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background: #1c87c9;
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+  }
+  .button:hover {
+    cursor: pointer;
+    color: green;
+}
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  /* button.button {
+    background: none;
+    border-top: none;
+    outline: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: #02274a 1px solid;
+    padding: 0 0 3px 0;
+    font-size: 16px;
+    cursor: pointer;
+  } */
+  button.button:hover {
+    border-bottom: #a99567 1px solid;
+    color: #a99567;
+  }
